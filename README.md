@@ -1,0 +1,2 @@
+# malaka-coin
+new crypto 
