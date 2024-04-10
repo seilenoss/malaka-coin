@@ -1,0 +1,33 @@
+{
+  "name": "Malaka",
+  "symbol": "MLK",
+  "description": "Embrace the ease and pleasure of life — this coin's got the Greek spirit",
+  "seller_fee_basis_points": 100, // This means a 1% seller fee.
+  "image": "https://raw.githubusercontent.com/seilenoss/malaka-coin/main/Malaka_%20Coin.webp", // Replace with the raw GitHub user content URL.
+  "attributes": [
+    {
+      "trait_type": "Coolness",
+      "value": "Very High"
+    }
+    // ... more attributes here
+  ],
+  "collection": {
+    "name": "Malaka Coin Collection",
+    "family": "Malaka Family"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/seilenoss/malaka-coin/main/Malaka_%20Coin.webp", // Replace with the raw GitHub user content URL.
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "<AcX1g5D7P4K3RmwaFqFvBkkubPgD4sLPq2Xsp5ffVMUh>", // Your Solana wallet address.
+        "share": 100
+      }
+    ]
+  }
+}
